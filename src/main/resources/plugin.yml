@@ -1,0 +1,8 @@
+name: MSSafariGames
+
+version: 1.0
+author: LGCMcLovin
+
+description: A Pixelmon Safari Games plugin!
+depend: [BattleArena]  ### <--- the important line
+main: io.github.LGCMcLovin.MSSafariGames
